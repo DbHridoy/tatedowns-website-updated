@@ -182,7 +182,7 @@ export default function Home() {
               </div>
               <div className="text-left">
                 <div className="font-semibold">60+ Homes Painted</div>
-                <div className="text-sm text-muted-foreground">60+ Homes Painted and then the sub text the same</div>
+                <div className="text-sm text-muted-foreground">60+ Homes Painted</div>
               </div>
             </div>
           </div>
