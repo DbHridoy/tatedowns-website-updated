@@ -181,8 +181,8 @@ export default function Home() {
                 <Users className="h-8 w-8 text-primary" />
               </div>
               <div className="text-left">
-                <div className="font-semibold">Locally Owned</div>
-                <div className="text-sm text-muted-foreground">Proudly serving the North Shore</div>
+                <div className="font-semibold">60+ Homes Painted</div>
+                <div className="text-sm text-muted-foreground">60+ Homes Painted and then the sub text the same</div>
               </div>
             </div>
           </div>
